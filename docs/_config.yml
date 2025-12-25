@@ -1,0 +1,23 @@
+title: PISAN
+description: Platforma za istraživanje digitalizovanog sadržaja novinskih kolekcija potpomognuta jezičkim tehnologijama za srpski jezik
+theme: just-the-docs
+url: "https://jerteh.github.io"
+baseurl: "/PISAN"
+
+# Logo (opciono): treba da ubacim sliku u docs/assets/logo.png pa da otkomentarišem
+# logo: "/assets/logo.png"
+
+aux_links:
+  "GitHub репозиторијум":
+    - "https://github.com/jerteh/PISAN"
+  "Платформа (апликација)":
+    - "https://rssj.jerteh.rs/exist/app/pisan"
+  "TEI Publisher (инстанца)":
+    - "https://tei.jerteh.rs/"
+  "NER/NEL сервис":
+    - "https://ners.jerteh.rs/4api"
+  "TESLA":
+    - "https://tesla.rgf.bg.ac.rs"
+
+# Uključi pretragu (default je uključeno, ovo je eksplicitno)
+search_enabled: true
