@@ -21,7 +21,7 @@ nav_order: 1
 - Нова искра (прошлогодишњи материјал, тестирано у систему)
 
 ## Брзи линкови
-- Платформа: https://tei.jerteh.rs/exist/app/PISAN  
-- Репозиторијум: https://github.com/jerteh/PISAN  
-- NER/NEL API: https://ners.jerteh.rs/4api  
-- TESLA: https://tesla.rgf.bg.ac.rs/
+- Платформа: [https://tei.jerteh.rs/exist/app/PISAN](https://tei.jerteh.rs/exist/apps/PISAN)
+- Репозиторијум: [https://github.com/jerteh/PISAN](https://github.com/jerteh/PISAN)  
+- NER/NEL API: [https://ners.jerteh.rs/4api](https://ners.jerteh.rs/4api)  
+- TESLA: [https://tesla.rgf.bg.ac.rs/](https://tesla.rgf.bg.ac.rs/)
