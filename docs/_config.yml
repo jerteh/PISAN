@@ -1,6 +1,10 @@
 title: PISAN
 description: Platforma za istraživanje digitalizovanog sadržaja novinskih kolekcija potpomognuta jezičkim tehnologijama za srpski jezik
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
 url: "https://jerteh.github.io"
 baseurl: "/PISAN"
 
