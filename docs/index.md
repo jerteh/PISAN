@@ -25,4 +25,3 @@ nav_order: 1
 - Репозиторијум: [https://github.com/jerteh/PISAN](https://github.com/jerteh/PISAN)  
 - NER/NEL API: [https://ners.jerteh.rs/4api](https://ners.jerteh.rs/4api)  
 - TESLA: [https://tesla.rgf.bg.ac.rs/](https://tesla.rgf.bg.ac.rs/)
-- ПИСАН у Тршићу: [инфо](https://jerteh.github.io/PISAN/dissemination.html)
